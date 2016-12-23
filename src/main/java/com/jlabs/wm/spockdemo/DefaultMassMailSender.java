@@ -37,5 +37,4 @@ public class DefaultMassMailSender implements MassMailSender {
 		this.emailSender = emailSender;
 	}
 
-
 }
